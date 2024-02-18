@@ -1,5 +1,7 @@
 <?php
 
+use Task02\Fraction;
+
 function runTest()
 {
     // String representation test

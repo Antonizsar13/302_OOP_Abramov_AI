@@ -1,6 +1,8 @@
 <?php
 
-class a_Fraction
+namespace Task02;
+
+class Fraction
 {
     private $numer;
     private $demo;
